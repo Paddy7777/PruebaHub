@@ -7,7 +7,7 @@ namespace HubApp1.Common
 {
     /// <summary>
     /// Implementation of IObservableMap that supports reentrancy for use as a default view
-    /// model...
+    /// model...gg.
     /// </summary>
     public class ObservableDictionary : IObservableMap<string, object>
     {
