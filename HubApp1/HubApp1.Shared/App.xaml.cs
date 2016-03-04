@@ -114,7 +114,7 @@ namespace HubApp1
                 }
             }
 
-            // Ensure the current window is active.
+            // Ensure the current window is active..
             Window.Current.Activate();
         }
 
